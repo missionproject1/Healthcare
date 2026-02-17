@@ -31,5 +31,5 @@ It provides APIs for user authentication, patient management, doctor management,
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/missionproject1/Healthcare.git
 cd healthcare
